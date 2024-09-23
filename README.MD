@@ -97,7 +97,7 @@ A continuación se detallan cada una de las tablas:
 
 
 ### Diagrama ER 
-
+![ER Biblioteca Pública](diagrama.png)
 
 
 
