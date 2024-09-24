@@ -45,7 +45,7 @@ A continuación se detallan cada una de las tablas:
     4. Librarian
         Objetivo: almacenar información de los trabajadores. 
         Atributos: 
-            ID_Librarian (PK)
+            Librarian_ID (PK)
             Librarian_Name
             Shift
     5. Reservation
@@ -97,7 +97,8 @@ A continuación se detallan cada una de las tablas:
 
 
 ### Diagrama ER 
-![ER Biblioteca Pública](diagrama.png)
+![ER Biblioteca Pública](diagrama_erd.png)
+![DER Biblioteca Pública](ERD_draw.png)
 
 
 
